@@ -68,4 +68,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Building a Security Monitoring Environment (SIEM)
 - Installing and Configuring a SIEM Solution for a Home Lab
 - Rekall Penetration Test and Report
-- Setting Up and Securing a Web Application on Azure
+- <a href="https://github.com/DnatCS/Setting-Up-and-Securing-a-Web-Application-on-Azure/tree/main">Setting Up and Securing a Web Application on Azure</a>
