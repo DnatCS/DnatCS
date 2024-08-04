@@ -13,10 +13,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Building a Security Monitoring Environment (SIEM)</a>|
+| SIEM Implementation and Log Analysis | <a href="https://google.com">Building a Security Monitoring Environment (SIEM)</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Rekall Penetration Test and Report</a>|
-| Vulnerability Assessment                      | Rekall Penetration Test and Report|
-| Penetration Testing       | Rekall Penetration Test and Report|
+| Vulnerability Assessment and Penetration Testing | Rekall Penetration Test and Report|
+| Enhanced knowledge of network protocols and security vulnerabilities | <a href="https://github.com/DnatCS/Setting-Up-and-Securing-a-Web-Application-on-Azure/tree/main">Setting Up and Securing a Web Application on Azure</a>|
 | Securing Web Applications | <a href="https://github.com/DnatCS/Setting-Up-and-Securing-a-Web-Application-on-Azure/tree/main">Setting Up and Securing a Web Application on Azure</a>|
 | Configuring and implementing a SIEM Solution w/ EDR | Installing and Configuring a SIEM Solution for a Home Lab|
 
