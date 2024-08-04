@@ -1,6 +1,6 @@
 # Hello, I'm Daniel Natividad
 <a href="www.linkedin.com/in/
-daniel-n-natividad"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+daniel-n-natividad/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
